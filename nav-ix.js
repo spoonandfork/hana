@@ -83,8 +83,8 @@ console.log("%cJK Deep Nav Single Pane Test - spoon+fork git 5-13-25 ",
       let contactButtonMobile = $('#nav-cta-desktop');
   
       /*** Trap focus list ([trap-focus] : 
-       * nav_primary-links-wrapper --> all nav_submenu_content
-       * nav_deep-links-wrapper --> all nav_submenu_content
+       * nav_primary-links-wrapper -> all nav_submenu_content
+       * nav_deep-links-wrapper -> all nav_submenu_content
        * 
        ***/
   
