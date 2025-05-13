@@ -1,4 +1,3 @@
-@ -0,0 +1,317 @@
 console.log("%cJK Deep Nav Single Pane Test - spoon+fork git 5-13-25 ",
     "background:blue;color:#fff;padding: 8px;");
   
