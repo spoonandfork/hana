@@ -1,4 +1,4 @@
-console.log("%cJK Deep Nav Single Pane Test - spoon+fork git 5-13-25 ",
+console.log("%cJK Deep Nav Single Pane Test - spoon+fork git 5-14-25 v0.1 ",
     "background:blue;color:#fff;padding: 8px;");
   
   function initNavListener() {
