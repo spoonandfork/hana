@@ -154,7 +154,7 @@ console.log("%cJK Deep Nav Single Pane Test - spoon+fork git 5-14-25 v0.1 ",
       showMainMenu.set(menuWrap, { display: "flex" });
       showMainMenu.set(menuBackground, { display: "block" });
       showMainMenu.to(menuWrap, { x: "0%" });
-      showMainMenu.from(menuBackground, { opacity: 0 }, "<");
+      showMainMenu.to(menuBackground, { opacity: 1 }, "<");
       showMainMenu.to(lines.eq(0), { y: 6, rotate: 45 }, "<");
       showMainMenu.to(lines.eq(2), { y: -6, rotate: -45 }, "<");
       showMainMenu.to(lines.eq(1), { opacity: 0 }, "<");
