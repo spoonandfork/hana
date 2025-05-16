@@ -1,4 +1,4 @@
-console.log("%cJK Deep Nav Single Pane Test - spoon+fork git 5-14-25 v0.1 ",
+console.log("%cJK Deep Nav Single Pane Test - spoon+fork git 5-15-25 v0.1 overlay issue",
     "background:blue;color:#fff;padding: 8px;");
   
   function initNavListener() {
